@@ -5,6 +5,8 @@ package com.cd.serviceImpl;
  */
 public class TestImpl {
 	public static void main(String[] args) {
+		
 		System.out.println("master2.0版本开发测试");
 	}
+
 }
